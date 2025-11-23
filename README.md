@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 - 🎓 **Software Engineering (SWE)** student  
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
-- 💡 Passionate about **problem solving, clean code, and intelligent systems**  
-- 🔥 Exploring **ML algorithms**, **Python**, **data preprocessing**, and **model building**  
-- 🎯 Goal: Build intelligent software that makes real-world impact  
+- 🤖 Learning **AI/ML**, focused on algorithms, model training & data preprocessing  
+- 💡 Passionate about **clean code**, **intelligent systems**, and **backend logic**  
+- 🔥 Exploring **Python**, **Machine Learning**, and **Software Architecture**  
+- 🎯 Goal: Become a **skilled software engineer** capable of building smart applications  
 
 ---
 
@@ -45,27 +45,27 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoeb-biswas&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-biswas&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shoeb-biswas&theme=tokyonight"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shoeb-biswas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>  
+  <img src="https://streak-stats.demolab.com?user=shoeb-biswas&theme=tokyonight&hide_border=true" height="185"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-biswas&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoeb-biswas&theme=dracula&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shoeb-biswas&theme=tokyonight&margin-w=10&no-frame=true"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoeb-biswas&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoeb-biswas&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -78,8 +78,8 @@
 ---
 
 ## 📬 Contact Me  
-📧 **Email:** shoebbiswas444@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/md-shoeb-hossain-44805b320  
+📧 **Email:** [Shoeb Hossain](shoebbiswas444@gmail.com)  
+🔗 **LinkedIn:** [Shoeb Hossain](https://www.linkedin.com/in/md-shoeb-hossain-44805b320) 
 
 ---
 
