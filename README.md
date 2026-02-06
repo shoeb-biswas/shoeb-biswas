@@ -41,30 +41,10 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=shoeb-biswas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>  
-  <img src="https://streak-stats.demolab.com?user=shoeb-biswas&theme=tokyonight&hide_border=true" height="185"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-biswas&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoeb-biswas&theme=tokyonight&margin-w=10&no-frame=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=70a5fd&label=Total%20Contributions&query=$.totalContributions&url=https://github-contributions-api.deno.dev/shoeb-biswas.json&style=for-the-badge&logo=github" alt="Total Contributions"/>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoeb-biswas&theme=tokyo-night&hide_border=true"/>
 </p>
 
