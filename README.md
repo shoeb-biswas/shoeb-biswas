@@ -1,88 +1,86 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Hi+I'm+YOUR_NAME+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+Learning...%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<h2 align="center">⚡ About Me</h2>
+<!-- Banner -->
+<h1 align="center">Hi, I'm Shoeb 👋</h1>
+<h3 align="center">Software Engineering Student | AI/ML Learner | Future Software Engineer</h3>
 
 <p align="center">
-  <b>Passionate developer crafting robust and scalable solutions.</b><br>
-  I turn coffee into code and ideas into reality. Specializing in building high-performance web applications <br> and exploring the depths of AI/ML.
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="220">
 </p>
 
+---
+
+## 🚀 About Me
+- 🎓 **Software Engineering (SWE)** student  
+- 🤖 Learning **AI/ML**, focused on algorithms, model training & data preprocessing  
+- 💡 Passionate about **clean code**, **intelligent systems**, and **backend logic**  
+- 🔥 Exploring **Python**, **Machine Learning**, and **Software Architecture**  
+- 🎯 Goal: Become a **skilled software engineer** capable of building smart applications  
+
+---
+
+## 🛠️ Skills & Tools
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C%20Language-283593?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+</p>
+
+### **AI/ML Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+</p>
+
+### **Tech & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-| 🔭 I’m currently working on | **Exciting Open Source Projects** |
-| :--- | :--- |
-| 🌱 I’m currently learning | **Rust, GraphQL, and Cloud Architecture** |
-| 👯 I’m looking to collaborate on | **Hackathons & Full Stack Projects** |
-| 💬 Ask me about | **React, Node.js, Python, & System Design** |
-| ⚡ Fun fact | **I code faster with Dark Mode on! 🌙** |
+  <img src="https://github-readme-stats.vercel.app/api?username=shoeb-biswas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>  
+  <img src="https://streak-stats.demolab.com?user=shoeb-biswas&theme=tokyonight&hide_border=true" height="185"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-biswas&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,django,flask,html,css,tailwind,redux,postgresql,mysql,mongodb,firebase,docker,kubernetes,aws,git,linux,vscode,figma&perline=10" />
-    </a>
-  </p>
-</div>
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="center">🐍 Contributions</h2>
-<div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<h2 align="center">📰 Latest Blog Posts</h2>
-* *Coming soon...*
----
-
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
+## 🏆 Achievements
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shoeb-biswas&theme=tokyonight&margin-w=10&no-frame=true"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoeb-biswas&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🔗 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shoeb-biswas&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+## 📬 Contact Me  
+📧 **Email:** [Shoeb Hossain](shoebbiswas444@gmail.com)  
+🔗 **LinkedIn:** [Shoeb Hossain](https://www.linkedin.com/in/md-shoeb-hossain-44805b320) 
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
