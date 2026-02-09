@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| **My GitHub Stats** | **My Contribution Streak** |
+| :---: | :---: |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoeb-biswas&show_icons=true&theme=tokyonight&hide_border=true" width="400" /> | <img src="https://streak-stats.demolab.com?user=shoeb-biswas&theme=tokyonight&hide_border=true" width="400" /> |
+
+</div>
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=70a5fd&label=Total%20Contributions&query=$.totalContributions&url=https://github-contributions-api.deno.dev/shoeb-biswas.json&style=for-the-badge&logo=github" alt="Total Contributions"/>
