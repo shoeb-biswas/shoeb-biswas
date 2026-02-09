@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="220">
 </p>
 
----
-
-## 🚀 About Me
+## 🚀 About Me <a href="https://wakatime.com/@b83e516f-48cb-41cb-b8f7-dac21abf7f45"><img src="https://wakatime.com/badge/user/b83e516f-48cb-41cb-b8f7-dac21abf7f45.svg" align="right" alt="WakaTime Stats" /></a>
 - 🎓 **Software Engineering (SWE)** student  
 - 🤖 Learning **AI/ML**, focused on algorithms, model training & data preprocessing  
 - 💡 Passionate about **clean code**, **intelligent systems**, and **backend logic**  
